@@ -1,0 +1,16 @@
+.recommandedVideos {
+  flex: 0.8;
+  background-color: #f9f9f9;
+  /* left = 20px */
+  padding: 40px 20px 0;
+}
+
+.recommandedVideos > h2 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+
+.recommandedVideos__videos {
+  display: flex;
+  flex-wrap: wrap;
+}
